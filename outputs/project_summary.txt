@@ -1,0 +1,7 @@
+IMAGE DATA ANNOTATION PROJECT
+============================
+
+Total Images : 128
+Total Objects : 642
+Unique Classes : 68
+Average Confidence : 0.59
